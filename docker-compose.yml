@@ -1,0 +1,21 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    environment:
+      - DB_USER=root
+      - DB_PASS=password
+      - DB_HOST=db
+      - DB_NAME=gouserapi
+  db:
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: gouserapi
+    ports:
+      - "3306:3306"
