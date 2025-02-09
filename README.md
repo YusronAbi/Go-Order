@@ -66,7 +66,7 @@ Berikut adalah struktur tabel yang digunakan dalam sistem ini:
 ## Diagram Hubungan Entitas (ERD)
 
 Berikut adalah diagram hubungan entitas (ERD) untuk sistem pemesanan online:
-
+![Image](https://github.com/user-attachments/assets/ebb8116f-00b3-4e80-b84b-1e185a92bf11)
 
 
 ## Instalasi
