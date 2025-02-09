@@ -1,6 +1,6 @@
-# Sistem Pemesanan Online
+# Sistem Pemesanan Makanan Online
 
-Sistem Pemesanan Online yang memungkinkan pengguna untuk menjelajahi produk, membuat pesanan, dan melakukan pembayaran secara efisien. 
+Sistem Pemesanan Makananan Online yang memungkinkan pengguna untuk menjelajahi produk, membuat pesanan, dan melakukan pembayaran secara efisien. 
 
 ## Fitur
 
