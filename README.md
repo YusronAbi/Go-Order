@@ -1,6 +1,6 @@
 # Sistem Pemesanan Online
 
-Sistem Pemesanan Online adalah aplikasi yang memungkinkan pengguna untuk menjelajahi produk, membuat pesanan, dan melakukan pembayaran secara efisien. Aplikasi ini dirancang untuk memberikan pengalaman pengguna yang baik dalam berbelanja online.
+Sistem Pemesanan Online yang memungkinkan pengguna untuk menjelajahi produk, membuat pesanan, dan melakukan pembayaran secara efisien. 
 
 ## Fitur
 
